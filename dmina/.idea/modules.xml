@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dmina.iml" filepath="$PROJECT_DIR$/dmina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dmina-client/dmina-client.iml" filepath="$PROJECT_DIR$/dmina-client/dmina-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dmina-common/dmina-common.iml" filepath="$PROJECT_DIR$/dmina-common/dmina-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dmina-config/dmina-config.iml" filepath="$PROJECT_DIR$/dmina-config/dmina-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dmina-engineer/dmina-engineer.iml" filepath="$PROJECT_DIR$/dmina-engineer/dmina-engineer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dmina-monitor/dmina-monitor.iml" filepath="$PROJECT_DIR$/dmina-monitor/dmina-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dmina-test/dmina-test.iml" filepath="$PROJECT_DIR$/dmina-test/dmina-test.iml" />
+    </modules>
+  </component>
+</project>
