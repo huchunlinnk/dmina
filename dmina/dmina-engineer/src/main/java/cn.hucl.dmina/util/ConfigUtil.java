@@ -1,4 +1,4 @@
-package hht.dss.commmodule.util;
+package cn.hucl.dmina.util;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

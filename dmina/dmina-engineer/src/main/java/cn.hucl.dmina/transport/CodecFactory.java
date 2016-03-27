@@ -1,6 +1,6 @@
-package hht.dss.commmodule.transport;
+package cn.hucl.dmina.transport;
 
-import hht.dss.commmodule.data.PacketFactory;
+import cn.hucl.dmina.data.PacketFactory;
 
 import org.apache.mina.core.session.IoSession;
 import org.apache.mina.filter.codec.ProtocolCodecFactory;

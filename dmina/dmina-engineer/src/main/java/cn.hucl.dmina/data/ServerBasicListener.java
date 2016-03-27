@@ -1,9 +1,9 @@
-package hht.dss.commmodule.data;
+package cn.hucl.dmina.data;
 
 import java.nio.charset.CharacterCodingException;
 import java.util.UUID;
 
-import hht.dss.commmodule.transport.Server;
+import cn.hucl.dmina.transport.Server;
 
 import org.apache.mina.core.session.IoSession;
 

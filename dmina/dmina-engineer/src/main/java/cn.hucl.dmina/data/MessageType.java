@@ -1,4 +1,4 @@
-package hht.dss.commmodule.data;
+package cn.hucl.dmina.data;
 
 public class MessageType {
 	//开机，关机，唤醒，重启等暂时放这里

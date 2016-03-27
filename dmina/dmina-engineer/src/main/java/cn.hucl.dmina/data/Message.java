@@ -1,9 +1,9 @@
-package hht.dss.commmodule.data;
+package cn.hucl.dmina.data;
 
-import hht.dss.commmodule.util.CharSetUtil;
-import hht.dss.commmodule.util.GetClassProperties;
-import hht.dss.commmodule.util.MessageFieldInfo;
-import hht.dss.commmodule.util.TypeConvert;
+import cn.hucl.dmina.util.CharSetUtil;
+import cn.hucl.dmina.util.GetClassProperties;
+import cn.hucl.dmina.util.MessageFieldInfo;
+import cn.hucl.dmina.util.TypeConvert;
 
 import java.io.Serializable;
 import java.lang.reflect.Field;

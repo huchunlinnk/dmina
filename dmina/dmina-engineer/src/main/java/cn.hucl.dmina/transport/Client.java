@@ -1,7 +1,7 @@
-package hht.dss.commmodule.transport;
+package cn.hucl.dmina.transport;
 
-import hht.dss.commmodule.data.*;
-import hht.dss.commmodule.util.ConfigUtil;
+import cn.hucl.dmina.data.*;
+import cn.hucl.dmina.util.ConfigUtil;
 
 import java.io.UnsupportedEncodingException;
 import java.net.InetSocketAddress;

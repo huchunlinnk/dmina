@@ -1,4 +1,4 @@
-package hht.dss.commmodule.data;
+package cn.hucl.dmina.data;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;

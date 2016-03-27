@@ -1,14 +1,14 @@
-package hht.dss.commmodule.data;
+package cn.hucl.dmina.data;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Map;
 
-import hht.dss.commmodule.transport.Client;
-import hht.dss.commmodule.util.MinaCommandParser;
+import cn.hucl.dmina.transport.Client;
+import cn.hucl.dmina.util.MinaCommandParser;
 
 import org.apache.mina.core.session.IoSession;
 import org.dom4j.DocumentException;
-import hht.dss.commmodule.data.ServerProtocol;
+import cn.hucl.dmina.data.ServerProtocol;
 
 
 

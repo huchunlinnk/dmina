@@ -1,4 +1,4 @@
-package hht.dss.commmodule.transport;
+package cn.hucl.dmina.transport;
 
 public class PacketNotValidException extends Exception {
 

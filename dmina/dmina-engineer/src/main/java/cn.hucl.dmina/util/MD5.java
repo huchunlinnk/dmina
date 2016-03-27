@@ -1,4 +1,4 @@
-package hht.dss.commmodule.util;
+package cn.hucl.dmina.util;
 
 import java.io.File;
 import java.io.FileInputStream;

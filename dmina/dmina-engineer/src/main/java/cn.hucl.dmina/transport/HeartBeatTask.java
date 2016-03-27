@@ -1,7 +1,7 @@
-package hht.dss.commmodule.transport;
+package cn.hucl.dmina.transport;
 
-import hht.dss.commmodule.data.Message;
-import hht.dss.commmodule.data.ServerProtocol;
+import cn.hucl.dmina.data.Message;
+import cn.hucl.dmina.data.ServerProtocol;
 
 import java.nio.charset.CharacterCodingException;
 import java.util.TimerTask;

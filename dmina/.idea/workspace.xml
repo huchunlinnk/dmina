@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b555ba0-6cf0-4431-9455-a21c72898b47" name="Default" comment="" />
+    <list default="true" id="9b555ba0-6cf0-4431-9455-a21c72898b47" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/BasicFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/ClientBasicListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/KeepAliveFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/Listener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/Message.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/MessageType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/Obj2Map.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/Packet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/PacketFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/ServerBasicListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/ServerProtocol.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/SessionValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/UserInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/CodecFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/DataDecoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/DataEncoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/HeartBeatTask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/PacketNotValidException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/Server.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/ServerHeartBeartDect.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/ServerIoHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/TypeNotRecognisedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/CharSetUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/ConfigUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/GetClassProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/MD5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/MessageFieldInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/MinaCommandParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/TerminalInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/TrimHtml.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/TypeConvert.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/UUIDUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/config.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmina-engineer/src/main/resources/config.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dmina-client/pom.xml" afterPath="$PROJECT_DIR$/dmina-client/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dmina-common/pom.xml" afterPath="$PROJECT_DIR$/dmina-common/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dmina-config/pom.xml" afterPath="$PROJECT_DIR$/dmina-config/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dmina-engineer/pom.xml" afterPath="$PROJECT_DIR$/dmina-engineer/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dmina-monitor/pom.xml" afterPath="$PROJECT_DIR$/dmina-monitor/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dmina-test/pom.xml" afterPath="$PROJECT_DIR$/dmina-test/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+    </list>
     <ignored path="dmina.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,12 +75,12 @@
     <favorites_list name="dmina" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dmina-config/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.75">
-              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            <state vertical-scroll-proportion="-3.6764705">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -42,78 +89,48 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dmina-test/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.75">
-              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            <state vertical-scroll-proportion="-3.6764705">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dmina-client/readme.txt">
+      <file leaf-file-name="BasicFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/BasicFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dmina-common/readme.txt">
+      <file leaf-file-name="config.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/resources/config.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dmina-config/readme.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dmina-engineer/readme.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dmina-monitor/readme.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dmina-test/readme.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dmina-client/pom.xml">
+        <entry file="file://$PROJECT_DIR$/dmina-engineer/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.5">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state vertical-scroll-proportion="-3.6764705">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dmina-monitor/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.6764705">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -122,14 +139,37 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.06735751">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.27322406">
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dmina-client/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.6764705">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dmina-common/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.6764705">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -139,6 +179,45 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/BasicFactory.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/ClientBasicListener.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/KeepAliveFactory.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/Listener.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/Message.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/MessageType.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/Obj2Map.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/Packet.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/PacketFactory.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/ServerBasicListener.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/ServerProtocol.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/SessionValue.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/UserInfo.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/Client.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/CodecFactory.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/DataDecoder.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/DataEncoder.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/HeartBeatTask.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/PacketNotValidException.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/Server.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/ServerHeartBeartDect.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/ServerIoHandler.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/TypeNotRecognisedException.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/CharSetUtil.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/ConfigUtil.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/GetClassProperties.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/MD5.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/MessageFieldInfo.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/MinaCommandParser.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/TerminalInfo.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/TrimHtml.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/TypeConvert.java" />
+        <option value="$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/UUIDUtil.java" />
+        <option value="$PROJECT_DIR$/dmina-client/pom.xml" />
+        <option value="$PROJECT_DIR$/dmina-common/pom.xml" />
+        <option value="$PROJECT_DIR$/dmina-config/pom.xml" />
+        <option value="$PROJECT_DIR$/dmina-engineer/pom.xml" />
+        <option value="$PROJECT_DIR$/dmina-monitor/pom.xml" />
+        <option value="$PROJECT_DIR$/dmina-test/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
@@ -154,13 +233,19 @@
         <option name="mavenHome" value="Bundled (Maven 3)" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1011" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -203,41 +288,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dmina" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dmina" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dmina-test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dmina" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dmina" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
     </panes>
   </component>
@@ -245,14 +301,16 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js-jscs-nodeInterpreter" value="F:\rtc\install\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\opensource\dmina\dmina-engineer\src\main\resources" />
+      <recent name="F:\opensource\dmina\dmina-engineer\src\main\java\cn.hucl.dmina" />
       <recent name="$PROJECT_DIR$/dmina-test" />
       <recent name="$PROJECT_DIR$/dmina-monitor" />
       <recent name="$PROJECT_DIR$/dmina-engineer" />
-      <recent name="$PROJECT_DIR$/dmina-config" />
-      <recent name="$PROJECT_DIR$/dmina-common" />
     </key>
   </component>
   <component name="RunManager">
@@ -647,6 +705,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -670,41 +733,43 @@
       <option name="number" value="Default" />
       <updated>1458952503541</updated>
       <workItem from="1458952507959" duration="1643000" />
+      <workItem from="1459076942919" duration="666000" />
+      <workItem from="1459083444395" duration="5483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1643000" />
+    <option name="totallyTimeSpent" value="7792000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1011" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.49574015" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3301486" sideWeight="0.4703125" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293348" sideWeight="0.5104167" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.49574015" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19911504" sideWeight="0.5969116" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.48722044" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25104168" sideWeight="0.7491749" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32824427" sideWeight="0.48958334" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25665602" sideWeight="0.25082508" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3304253" sideWeight="0.52760416" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33079433" sideWeight="0.5296875" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33623505" sideWeight="0.48541668" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19911504" sideWeight="0.5969116" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.49375" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -719,7 +784,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dmina-engineer/pom.xml">
+    <entry file="file://$PROJECT_DIR$/dmina-monitor/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -727,34 +792,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dmina-monitor/pom.xml">
+    <entry file="file://$PROJECT_DIR$/dmina-test/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.75">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dmina-common/pom.xml">
+    <entry file="file://$PROJECT_DIR$/dmina-client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.75">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dmina-config/pom.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.75">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dmina-test/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.75">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -807,18 +864,330 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/Packet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/KeepAliveFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/Listener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/MessageType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/Obj2Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/PacketFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/ServerBasicListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/ServerProtocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/SessionValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/CodecFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/DataDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/DataEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/HeartBeatTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/PacketNotValidException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/ServerHeartBeartDect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/ServerIoHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/transport/TypeNotRecognisedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/CharSetUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/ConfigUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/GetClassProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/MD5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/MessageFieldInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/MinaCommandParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/TerminalInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/TrimHtml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/ClientBasicListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21440823">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/UUIDUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34305316">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/util/TypeConvert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/java/cn.hucl.dmina/data/BasicFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dmina-client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.5">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state vertical-scroll-proportion="-3.6764705">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.6764705">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-config/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.6764705">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-engineer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.6764705">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-monitor/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.6764705">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmina-test/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.6764705">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06735751">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.27322406">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
           <folding />
         </state>
       </provider>

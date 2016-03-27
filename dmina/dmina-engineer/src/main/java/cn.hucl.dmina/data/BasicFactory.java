@@ -1,4 +1,4 @@
-package hht.dss.commmodule.data;
+package cn.hucl.dmina.data;
 
 public class BasicFactory implements PacketFactory {
 

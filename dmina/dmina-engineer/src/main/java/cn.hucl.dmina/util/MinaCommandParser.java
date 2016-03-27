@@ -1,4 +1,4 @@
-package hht.dss.commmodule.util;
+package cn.hucl.dmina.util;
 
 import java.io.ByteArrayInputStream;
 import java.io.UnsupportedEncodingException;

@@ -4,7 +4,7 @@
  * @author hucl
  * @since 2013-12-23
  */
-package hht.dss.commmodule.data;
+package cn.hucl.dmina.data;
 
 import org.apache.mina.core.session.IoSession;
 

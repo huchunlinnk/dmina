@@ -1,9 +1,9 @@
-package hht.dss.commmodule.transport;
+package cn.hucl.dmina.transport;
 
-import hht.dss.commmodule.data.Message;
-import hht.dss.commmodule.data.Packet;
-import hht.dss.commmodule.util.CharSetUtil;
-import hht.dss.commmodule.util.MessageFieldInfo;
+import cn.hucl.dmina.data.Message;
+import cn.hucl.dmina.data.Packet;
+import cn.hucl.dmina.util.CharSetUtil;
+import cn.hucl.dmina.util.MessageFieldInfo;
 
 import java.nio.charset.CharacterCodingException;
 import java.nio.charset.Charset;

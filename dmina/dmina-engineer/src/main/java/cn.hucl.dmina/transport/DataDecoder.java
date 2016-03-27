@@ -1,4 +1,4 @@
-package hht.dss.commmodule.transport;
+package cn.hucl.dmina.transport;
 
 /**
  * decode the message received
@@ -6,8 +6,8 @@ package hht.dss.commmodule.transport;
  * @author hucl
  * @since 2013-12-19
  */
-import hht.dss.commmodule.data.*;
-import hht.dss.commmodule.util.*;
+import cn.hucl.dmina.data.*;
+import cn.hucl.dmina.util.*;
 
 import java.nio.charset.CharacterCodingException;
 import java.nio.charset.Charset;

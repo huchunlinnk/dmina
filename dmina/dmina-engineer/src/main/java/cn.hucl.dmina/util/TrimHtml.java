@@ -1,4 +1,4 @@
-	package hht.dss.commmodule.util;
+	package cn.hucl.dmina.util;
 
     import java.util.regex.Matcher;  
     import java.util.regex.Pattern;  

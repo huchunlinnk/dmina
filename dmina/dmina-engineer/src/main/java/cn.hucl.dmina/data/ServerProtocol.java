@@ -1,4 +1,4 @@
-package hht.dss.commmodule.data;
+package cn.hucl.dmina.data;
 
 public class ServerProtocol {
 	public static final short MESSAGE_SERVER_REGISTER = 0x0001;

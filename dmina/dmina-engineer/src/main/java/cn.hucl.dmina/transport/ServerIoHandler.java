@@ -1,8 +1,8 @@
-package hht.dss.commmodule.transport;
+package cn.hucl.dmina.transport;
 
-import hht.dss.commmodule.data.Listener;
-import hht.dss.commmodule.data.Message;
-import hht.dss.commmodule.data.SessionValue;
+import cn.hucl.dmina.data.Listener;
+import cn.hucl.dmina.data.Message;
+import cn.hucl.dmina.data.SessionValue;
 
 import java.util.ArrayList;
 import java.util.Iterator;
