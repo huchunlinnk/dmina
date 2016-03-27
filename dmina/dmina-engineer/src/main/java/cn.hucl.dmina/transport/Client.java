@@ -233,7 +233,6 @@ public class Client extends IoHandlerAdapter implements
 			}
 		} else {
 		}
-
 	}
 
 	public void sendPacket(Message packet) throws InterruptedException,
@@ -268,7 +267,6 @@ public class Client extends IoHandlerAdapter implements
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-
 	}
 
 	public void sessionCreated(IoSession arg0) throws Exception {
